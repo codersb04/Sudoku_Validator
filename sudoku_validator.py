@@ -1,3 +1,9 @@
+"""Below is the code to validate a sudoku game.
+ We have created 3 set of verification.
+ One for row, another one for columns and last one for checking the blocks"""
+
+ 
+
 def valid_solution(board):
     print(board)
     a=[]
